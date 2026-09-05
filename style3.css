@@ -1,0 +1,11 @@
+#maze {
+    width: 900px;
+    height: 600px;
+    touch-action: none;
+}
+
+#START {
+    position: absolute;
+    left: 200px;
+    top: 200px;
+}
